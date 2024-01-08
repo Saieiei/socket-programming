@@ -1,0 +1,2 @@
+cd C:\saiei\VIT stuff\win 6Th sem\CRYPTO\lab\socket programming
+python client.py
